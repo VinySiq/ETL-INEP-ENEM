@@ -20,3 +20,6 @@ Project started in June 20, 2022.
 ### Projeto para execução (dataflow):
 # ![_Fluxograma - INEP (1)](https://user-images.githubusercontent.com/97056856/176051429-acb15f03-bc7c-46d8-8e1b-b11ecebb19ff.png)
 
+### Resultado final
+Consultas SQL disponível para os dos dados convertidos em parquet:
+![image](https://user-images.githubusercontent.com/97056856/176317365-d85c6231-f590-48e6-8e73-df00e3e910d2.png)
